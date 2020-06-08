@@ -1,0 +1,126 @@
+date,state,notes
+2020-06-07,SC,
+2020-06-07,SC,Dados totais coletados da Secretaria Estadual de Saúde
+2020-06-06,SC,Dados totais coletados da Secretaria Estadual de Saúde
+2020-06-06,SC,
+2020-06-05,SC,
+2020-06-04,SC,
+2020-06-03,SC,Uma morte computada anteriormente para o município de Joinville passou para São Francisco do Sul.
+2020-06-02,SC,
+2020-06-01,SC,
+2020-05-31,SC,
+2020-05-30,SC,
+2020-05-29,SC,
+2020-05-29,SC,"Urubici saiu da lista, pois seu caso migrou para Florianópolis."
+2020-05-28,SC,
+2020-05-27,SC,
+2020-05-26,SC,
+2020-05-25,SC,
+2020-05-24,SC,
+2020-05-23,SC,"Secretaria colocou um caso de morte para Guarujá do Sul, porém era residente de Dionísio Cerqueira, como apontado na nota da prefeitura."
+2020-05-23,SC,"Secretaria colocou um caso de morte para Guarujá do Sul, porém era residente de Dionísio Cerqueira, como apontado na nota da prefeitura.
+Houve uma redução no número de casos de alguns municípios, como Florianópolis e Blumenau, porque a integração de dados entre os sistemas que atualizam as informações na plataforma Boa Vista, utilizada pelo Governo do Estado, pode gerar duplicidades.
+Entre as de hoje está a de um menino de 13 anos, de Dionísio Cerqueira, erroneamente atribuída no boletim como de Guarujá do Sul, cidade no qual o paciente foi atendido."
+2020-05-23,SC,"Houve uma redução no número de casos de alguns municípios, como Florianópolis e Blumenau, porque a integração de dados entre os sistemas que atualizam as informações na plataforma Boa Vista, utilizada pelo Governo do Estado, pode gerar duplicidades.
+Entre as de hoje está a de um menino de 13 anos, de Dionísio Cerqueira, erroneamente atribuída no boletim como de Guarujá do Sul, cidade no qual o paciente foi atendido."
+2020-05-22,SC,"O aumento observado entre quinta e sexta-feira está relacionado à integração da plataforma SC Digital, na qual os laboratórios privados informam os exames de Covid-19, ao sistema do Governo de Santa Catarina. Além disso, o sistema e-SUS VE do Ministério da Saúde estava, desde o dia 19 de maio, apresentando problemas na origem e foi atualizado apenas nesta sexta."
+2020-05-22,SC,
+2020-05-21,SC,
+2020-05-21,SC,
+2020-05-20,SC,
+2020-05-20,SC,
+2020-05-19,SC,"A notícia do site não incluiu os casos de Faxinal dos Guedes e Imbuia
+Os casos de Faxinal dos Guedes e Imbuia foram omitidos na notícia mas estão no boletim em PDF."
+2020-05-19,SC,"A notícia do site não incluiu os casos de Faxinal dos Guedes e Imbuia
+Os casos de Faxinal dos Guedes e Imbuia foram omitidos na notícia mas estão no boletim em PDF."
+2020-05-18,SC,"O caso que havia entrado no sábado como sendo de Treviso foi alterado para Chapecó, por isso o município do Sul saiu da lista nesta segunda-feira. A mudança foi realizada após a constatação de um equívoco no preenchimento do CEP do paciente durante a notificação."
+2020-05-17,SC,
+2020-05-16,SC,"O município de Vargem, que aparecia na lista com um caso confirmado, foi removido após a constatação de um equívoco na notificação. O município não possui casos confirmados. Um dos óbitos que estava contabilizado como Laguna foi alterado para Criciúma, cidade onde residia a pessoa falecida. O endereço mais recente foi constatado após a investigação."
+2020-05-15,SC,
+2020-05-15,SC,
+2020-05-14,SC,
+2020-05-14,SC,
+2020-05-13,SC,
+2020-05-13,SC,
+2020-05-12,SC,
+2020-05-12,SC,
+2020-05-11,SC,
+2020-05-10,SC,
+2020-05-09,SC,
+2020-05-09,SC,
+2020-05-08,SC,
+2020-05-08,SC,
+2020-05-07,SC,
+2020-05-07,SC,
+2020-05-06,SC,
+2020-05-06,SC,
+2020-05-05,SC,
+2020-05-05,SC,
+2020-05-04,SC,
+2020-05-04,SC,
+2020-05-03,SC,
+2020-05-03,SC,
+2020-05-02,SC,
+2020-05-01,SC,"Número de casos e mortes foi menor do que o dia anterior devido à casos duplicados no sistema do estado.
+A Secretaria de Estado da Saúde explica que a redução no número em relação ao divulgado no dia anterior se deve à correção de casos que estavam registrados em duplicidade, fato ocorrido quando o painel do Governo do Estado integrou dados de outros sistemas do Ministério da Saúde, como o Sistema de Laboratório, o e-SUS VE e SIVEP Gripe."
+2020-04-30,SC,
+2020-04-29,SC,
+2020-04-28,SC,"A partir desta terça-feira, o painel do Governo de Santa Catarina passou a integrar os sistemas do Ministério da Saúde, sendo eles: e-SUS VE e SIVEP Gripe, e assim os casos confirmados por teste rápido sorológico e os casos confirmados por critério clínico e vínculo epidemiológico passaram a ser contabilizados, o que explica o aumento do número de casos."
+2020-04-27,SC,
+2020-04-26,SC,
+2020-04-25,SC,
+2020-04-24,SC,
+2020-04-23,SC,
+2020-04-22,SC,
+2020-04-21,SC,
+2020-04-20,SC,
+2020-04-19,SC,
+2020-04-18,SC,
+2020-04-17,SC,"Houve diminuição de um caso em Chapecó e um em Navegantes, sem explicação no boletim."
+2020-04-16,SC,"O óbito contabilizado como Balneário Camboriú no boletim do dia 15 de abril passou para Camboriú, após confirmação do local de residência do paciente. Dois casos de Balneário Camboriú diminuiram sem explicação no boletim. "
+2020-04-15,SC,"Santa Rosa de Lima teve seus casos zerados sem justificativa no boletim. Houve diminuição de dois casos em Itajaí e um caso em Jaraguá do Sul, também sem explicação."
+2020-04-14,SC,"Há diminuição de um caso em Caçador, sem explicação no boletim."
+2020-04-13,SC,"Houve diminuição de um caso de Ituporanga, sem explicação no Boletim."
+2020-04-12,SC,Um caso que até este sábado estava contabilizado como Botuverá passou para Brusque em função da confirmação do local de residência do paciente.
+2020-04-11,SC,"Houve diminuição de um caso e um óbito no município de São José, sem explicação no boletim. A SECOM informou via e-mail: ""Outros Países, três casos migraram na sexta-feira para cidades de notificação e retornaram neste sábado para Outros Países, o que explica o caso a menos em São José""."
+2020-04-10,SC,"Houve diminuição de um caso no municípo de Palhoça e de três casos indefinidos. SESCOM informou via e-mail: ""No boletim do dia 9 de abril, um caso de Palhoça estava duplicado no sistema, então foi ajustado e o município registra seis casos confirmados. No caso de outros países, três casos migraram na sexta-feira para cidades de notificação e retornaram no sábado para Outros Países."""
+2020-04-09,SC,Um caso que estava contabilizado como Paulo Lopes passou para Garopaba após a confirmação do local de residência do paciente.
+2020-04-08,SC,
+2020-04-08,SC,Corrigido Pedras Grandes conforme link
+2020-04-07,SC,"Por conta de um delay do sistema no momento que a tabela foi baixada da base de dados na segunda-feira, 6, o município de Siderópolis teve um caso duplicado e houve inconsistência nos casos de Brusque. No boletim desta terça-feira, os dados estão atualizados."
+2020-04-06,SC,
+2020-04-05,SC,Secretaria corrigiu informação de caso confirmado em Abelardo Luz para siderópolis
+2020-04-04,SC,
+2020-04-04,SC,Neste boletim não são especificados os municípios dos 5 novos óbitos divulgados em 4/4
+2020-04-04,SC,Boletim que confirma o município dos 5 obitos em 4/4
+2020-04-03,SC,
+2020-04-02,SC,Fonte que confirma o município de residência de uma das mortes no dia (florianopolis) - https://www.nsctotal.com.br/noticias/santa-catarina-tem-mais-tres-mortes-por-coronavirus-obitos-ocorreram-na-grande
+2020-04-01,SC,
+2020-03-31,SC,
+2020-03-30,SC,
+2020-03-30,SC,
+2020-03-29,SC,
+2020-03-28,SC,
+2020-03-27,SC,
+2020-03-26,SC,
+2020-03-26,SC,
+2020-03-25,SC,
+2020-03-24,SC,
+2020-03-23,SC,
+2020-03-22,SC,
+2020-03-21,SC,
+2020-03-21,SC,
+2020-03-20,SC,
+2020-03-20,SC,
+2020-03-20,SC,"No dia 20 à noite, a secretaria divulgou somente o numero total de casos confirmados, sem detalhamento das cidades. Desta forma foram utilizados os números por cidade divulgados na matéria do G1 neste dia"
+2020-03-19,SC,
+2020-03-19,SC,
+2020-03-18,SC,
+2020-03-17,SC,
+2020-03-16,SC,
+2020-03-15,SC,
+2020-03-15,SC,sem detalhamento por cidade
+2020-03-14,SC,
+2020-03-13,SC,sem detalhamento por cidade
+2020-03-13,SC,
+2020-03-12,SC,
