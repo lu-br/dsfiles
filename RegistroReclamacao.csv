@@ -1,0 +1,92 @@
+ideReclamacaoRegistrada,dscReclamacao,qtdReclamacao,mesReferencia,anoReferencia,dthProcessamento
+0,Alteração Cadastral (Titularidade/Nome),4395,12,2017,03/08/2018 00:00:00
+1,Alteração de carga,2593,12,2017,03/08/2018 00:00:00
+2,Apresentação e Entrega da Fatura,3184,12,2017,03/08/2018 00:00:00
+3,Cobrança Indevida,3736,12,2017,03/08/2018 00:00:00
+4,Cobrança por Irregularidades,6870,12,2017,03/08/2018 00:00:00
+5,Extensão de Rede,6139,12,2017,03/08/2018 00:00:00
+6,Falta de Energia,19605,12,2017,03/08/2018 00:00:00
+7,Faturamento por Média,2712,12,2017,03/08/2018 00:00:00
+8,Flutuação/Variação/Oscilação de Tensão,6243,12,2017,03/08/2018 00:00:00
+9,Ligação,14228,12,2017,03/08/2018 00:00:00
+10,Qualidade do Serviço (Interrupções Frequentes),6047,12,2017,03/08/2018 00:00:00
+11,Religação Normal,8747,12,2017,03/08/2018 00:00:00
+12,Ressarcimento de Danos Elétricos,10432,12,2017,03/08/2018 00:00:00
+13,Suspensão Indevida do Fornecimento,6123,12,2017,03/08/2018 00:00:00
+14,Variação de Consumo/Consumo Elevado/Erro Leitura,21063,12,2017,03/08/2018 00:00:00
+91,Aferição e substituição de medidor,1818,12,2013,30/04/2019 00:00:00
+92,Aferição e Substituição de Medidor,2235,12,2014,30/04/2019 00:00:00
+93,Aferição e Substituição de Medidor,3533,12,2015,30/04/2019 00:00:00
+94,Alteração Cadastral (Titularidade/Nome),3327,12,2018,30/04/2019 00:00:00
+95,Alteração de carga,3114,12,2014,30/04/2019 00:00:00
+96,Alteração de carga,3157,12,2015,30/04/2019 00:00:00
+97,Apresentação e entrega da fatura,2724,12,2013,30/04/2019 00:00:00
+98,Apresentação e Entrega da Fatura,4185,12,2014,30/04/2019 00:00:00
+99,Apresentação e Entrega da Fatura,4306,12,2015,30/04/2019 00:00:00
+100,Apresentação e Entrega da Fatura,3509,12,2016,30/04/2019 00:00:00
+101,Apresentação e Entrega da Fatura,4391,12,2018,30/04/2019 00:00:00
+102,Atendimento Telefônico da Concessionária,3327,12,2016,30/04/2019 00:00:00
+103,Cobrança indevida,2650,12,2013,30/04/2019 00:00:00
+104,Cobrança Indevida,2947,12,2014,30/04/2019 00:00:00
+105,Cobrança Indevida,3978,12,2015,30/04/2019 00:00:00
+106,Cobrança Indevida,3956,12,2016,30/04/2019 00:00:00
+107,Cobrança Indevida,4062,12,2018,30/04/2019 00:00:00
+108,Cobrança por irregularidades,3697,12,2013,30/04/2019 00:00:00
+109,Cobrança por Irregularidades,4143,12,2014,30/04/2019 00:00:00
+110,Cobrança por Irregularidades,4986,12,2016,30/04/2019 00:00:00
+111,Cobrança por Irregularidades,7961,12,2018,30/04/2019 00:00:00
+112,Extensão de rede,3646,12,2013,30/04/2019 00:00:00
+113,Extensão de Rede,4999,12,2014,30/04/2019 00:00:00
+114,Extensão de Rede,8859,12,2015,30/04/2019 00:00:00
+115,Extensão de Rede,8301,12,2016,30/04/2019 00:00:00
+116,Extensão de Rede,5307,12,2018,30/04/2019 00:00:00
+117,Falta de Energia,23167,12,2016,30/04/2019 00:00:00
+118,Falta de Energia,24014,12,2018,30/04/2019 00:00:00
+119,Faturamento por média,2255,12,2013,30/04/2019 00:00:00
+120,Faturamento por Média,3749,12,2014,30/04/2019 00:00:00
+121,Faturamento por Média,5322,12,2015,30/04/2019 00:00:00
+122,Faturamento por Média,3988,12,2016,30/04/2019 00:00:00
+123,Faturamento por Média,3274,12,2018,30/04/2019 00:00:00
+124,Flutuação/variação/oscilação de tensão,3480,12,2013,30/04/2019 00:00:00
+125,Flutuação/Variação/Oscilação de Tensão,4333,12,2014,30/04/2019 00:00:00
+126,Flutuação/Variação/Oscilação de Tensão,4807,12,2015,30/04/2019 00:00:00
+127,Flutuação/Variação/Oscilação de Tensão,4458,12,2016,30/04/2019 00:00:00
+128,Flutuação/Variação/Oscilação de Tensão,6263,12,2018,30/04/2019 00:00:00
+129,Interrupção no Fornecimento - (Falta de Energia),27725,12,2014,30/04/2019 00:00:00
+130,Interrupção no Fornecimento - (Falta de Energia),44621,12,2015,30/04/2019 00:00:00
+131,Interrupção no fornecimento (falta de energia),12183,12,2013,30/04/2019 00:00:00
+132,Ligação,9200,12,2013,30/04/2019 00:00:00
+133,Ligação,12511,12,2014,30/04/2019 00:00:00
+134,Ligação,14423,12,2015,30/04/2019 00:00:00
+135,Ligação,14072,12,2016,30/04/2019 00:00:00
+136,Ligação,11973,12,2018,30/04/2019 00:00:00
+137,Outras,15774,12,2013,30/04/2019 00:00:00
+138,Outras,17006,12,2014,30/04/2019 00:00:00
+139,Outras/Demais,24235,12,2015,30/04/2019 00:00:00
+140,Outras/Demais,27211,12,2016,30/04/2019 00:00:00
+141,Outras/Demais,21570,12,2017,30/04/2019 00:00:00
+142,Outros,31185,12,2018,30/04/2019 00:00:00
+143,Qualidade do atendimento da concessionária,3503,12,2013,30/04/2019 00:00:00
+144,Qualidade do Atendimento da Concessionária,5137,12,2014,30/04/2019 00:00:00
+145,Qualidade do Atendimento da Concessionária,8778,12,2015,30/04/2019 00:00:00
+146,Qualidade do Serviço (Interrupções Frequentes),7228,12,2016,30/04/2019 00:00:00
+147,Qualidade do Serviço (Interrupções Frequentes),5461,12,2018,30/04/2019 00:00:00
+148,Religação normal,2638,12,2013,30/04/2019 00:00:00
+149,Religação Normal,3795,12,2015,30/04/2019 00:00:00
+150,Religação Normal,5525,12,2016,30/04/2019 00:00:00
+151,Religação Normal,8445,12,2018,30/04/2019 00:00:00
+152,Ressarcimento de danos elétricos,9228,12,2013,30/04/2019 00:00:00
+153,Ressarcimento de Danos Elétricos,10985,12,2014,30/04/2019 00:00:00
+154,Ressarcimento de Danos Elétricos,10331,12,2015,30/04/2019 00:00:00
+155,Ressarcimento de Danos Elétricos,11160,12,2016,30/04/2019 00:00:00
+156,Ressarcimento de Danos Elétricos,8086,12,2018,30/04/2019 00:00:00
+157,Suspensão indevida do fornecimento,2617,12,2013,30/04/2019 00:00:00
+158,Suspensão Indevida do Fornecimento,2149,12,2014,30/04/2019 00:00:00
+159,Suspensão Indevida do Fornecimento,300,12,2015,30/04/2019 00:00:00
+160,Suspensão Indevida do Fornecimento,3856,12,2016,30/04/2019 00:00:00
+161,Suspensão Indevida do Fornecimento,5549,12,2018,30/04/2019 00:00:00
+162,Variação de consumo/consumo elevado/erro de leitura,12384,12,2013,30/04/2019 00:00:00
+163,Variação de Consumo/Consumo Elevado/Erro Leitura,15944,12,2014,30/04/2019 00:00:00
+164,Variação de Consumo/Consumo Elevado/Erro Leitura,24313,12,2015,30/04/2019 00:00:00
+165,Variação de Consumo/Consumo Elevado/Erro Leitura,24946,12,2016,30/04/2019 00:00:00
+166,Variação de Consumo/Consumo Elevado/Erro Leitura,24200,12,2018,30/04/2019 00:00:00
